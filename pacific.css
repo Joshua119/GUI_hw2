@@ -1,3 +1,10 @@
+/*    HW Assignment 2
+        File: pacific.css
+        Joshua Sullivan, Joshua_Sullivan1@student.uml.edu
+        9/13/2021   
+        This css file stylizes the code in index.html
+*/
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
